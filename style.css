@@ -9,7 +9,10 @@ body{
 }
 .images{
     display:flex;
-    column-gap: 0.5%;
+}
+.images img:hover{
+    filter: sepia(1);
+    cursor: pointer;
 }
 @media screen and (max-width: 600px){
     #box{
