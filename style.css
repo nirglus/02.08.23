@@ -1,7 +1,6 @@
 body{
     margin: 0;
     padding:0;
-
 }
 #box{
     height:100vh;
@@ -18,6 +17,5 @@ body{
         background-size: contain;
         background-repeat: none;
     }
-
 }
 
