@@ -4,8 +4,8 @@ body{
     color: #00f;
 }
 #box{
-    height:100vh;
-    width:100vw;
+    height:50vh;
+    width:60vw;
 }
 @media screen and (max-width: 600px){
     #box{
