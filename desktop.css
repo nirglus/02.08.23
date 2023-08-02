@@ -2,3 +2,9 @@
     border-radius: 50%;
     border: solid 10px #800080;
 }
+.images{
+    flex-wrap: wrap;
+}
+.images img{
+    width:33%;
+}
