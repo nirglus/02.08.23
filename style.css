@@ -4,7 +4,7 @@ body{
     color: #00f;
 }
 #box{
-    height:50vh;
+    height:80vh;
     width:60vw;
 }
 @media screen and (max-width: 600px){
